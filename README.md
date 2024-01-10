@@ -5,6 +5,11 @@ deploy -> https://marina-barbosa.github.io/jogo-da-memoria-javascript/
 # Jogo da Memória de Emojis
 Este é um projeto de um jogo da memória desenvolvido como exercício prático do curso de Game Dev da Digital Innovation One (DIO), ministrado pelo professor Felipe Aguiar. O jogo foi criado utilizando apenas HTML, CSS e JavaScript.
 
+<div align='center'>  
+
+![GIF](https://github.com/marina-barbosa/jogo-da-memoria-javascript/blob/master/Captura%20de%20tela%202024-01-10%20085533.png) 
+</div>
+
 # Visão Geral
 O jogo da memória consiste em um desafio onde o jogador precisa combinar pares de cartas com emojis idênticos, virando-as uma de cada vez para tentar memorizar a localização dos diferentes emojis.
 
